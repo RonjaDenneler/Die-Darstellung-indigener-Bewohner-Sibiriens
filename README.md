@@ -6,7 +6,7 @@ Dieses Repository enthält die Daten, Analysen und Skripte zu einer computergest
 ## 📂 **Inhalt des Repositories**  
 ### 1️⃣ **Texte & Annotationen**    
   - `txt-Dateien/` – Enthält die **txt-Dateien** der analysierten Bücher.
-  - `Catma-Export/` – Enthält die **zip-Datein** die aus Catma exportiert wurden.
+  - `Catma-Exports/` – Enthält die **zip-Datein** die aus Catma exportiert wurden.
 ### 2️⃣ **Skripte** 
   - `Python-Skripte/'- Enthält die für die Analyse und das POS-Tagging der Adjektive notwendigen Python-Skripte
 ### 3️⃣ **Ergebnisse & Visualisierungen**   
