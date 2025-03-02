@@ -10,7 +10,8 @@ Dieses Repository enthält die Daten, Analysen und Skripte zu einer computergest
 ### 2️⃣ **Skripte** 
   - `Python-Skripte/'- Enthält die für die Analyse und das POS-Tagging der Adjektive notwendigen Python-Skripte
 ### 3️⃣ **Ergebnisse & Visualisierungen**   
-  - `Netzwerkanalyse/`- Enthält die Visulisierten Ergebnisse der Netzwerkanalyse und Tabellen in zwei word-Dateien mit den gesuchten Begriffen und den häufigsten Adjektive, sowie deren Anzahl
+  - `Netzwerkanalyse/`- Enthält die Visulisierten Ergebnisse der Netzwerkanalyse 
+  - `Netzwerkanalyse/Adjektivlisten/`- Enthalten die Listen mit den häufigsten Adjektiven um die gesuchten Wörter
  
 ## 🚀 **Installation & Nutzung**  
 ### 🔧 **1. Voraussetzungen**  
